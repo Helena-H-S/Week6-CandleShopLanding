@@ -44,6 +44,7 @@ body {
     background-color: #a6a6a4;
     color: #3b2e30;
     display: flex;
+    text-align: center;
     align-items: center;
     justify-content: center;
     height: 320px;
@@ -87,6 +88,7 @@ body {
     background-color: #e2c2b4;
     color: #6b6962;
     display: flex;
+    text-align: center;
     align-items: center;
     justify-content: center;
     height: 250px;
